@@ -1,6 +1,6 @@
-**College Manager Project
+**College Manager Project**
 
-**Overview
+**Overview**
 The College Manager Project is a desktop application built with Python and Tkinter, aimed at simplifying administrative tasks and improving communication within a college or educational institution. It provides a user-friendly interface for managing student information, courses, schedules, and administrative operations.
 
 **Features**
